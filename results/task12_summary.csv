@@ -1,0 +1,7 @@
+test,case1_z_max_mm,case1_p_max_Pa,drift_vs_lam8
+Task1-lam6,297.244,3.8011,22.3
+Task1-lam8,274.993,3.6923,0
+Task1-lam12,276.000,2.7217,1.0
+Test,case2_z_max_mm,case2_p_max_Pa,note
+Task2-T=10mm,100.34,0.00,PML too thin (no absorption)
+Task2-T=20mm,272.57,2.06,PML sufficient

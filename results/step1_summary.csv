@@ -1,0 +1,6 @@
+baseline,z_max_mm,p_max_Pa,BC,Z_down
+plane_baseline,120.706,8.206853,PlaneWaveRadiation,200
+piston_PWR_Z200,170.265,0.132716,PlaneWaveRadiation,200
+piston_PWR_Z330,284.726,0.251637,PlaneWaveRadiation,330
+piston_PWR_Z350_old,284.811,0.251807,PlaneWaveRadiation,350
+piston_PML_Z330,297.244,3.801070,PML_20mm_geometric,330

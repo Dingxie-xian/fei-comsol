@@ -1,0 +1,23 @@
+# Java build artifacts
+*.class
+*.status
+
+# Test scratch
+*_test_*.mph
+*_test_step*.mph
+step4_N10_f40000_test_step*.mph
+
+# PML debug attempts
+*_mapped_attempt*.mph
+
+# MPh temp files
+*.mph.bak
+.mph.lock
+
+# Logs (keep only specific ones we curate)
+step2_*.log
+step3_*.log
+*runall*.log
+*test*.log
+step1_v2_piston_pml_step1_v2_piston_pml.log
+*.mph.status
